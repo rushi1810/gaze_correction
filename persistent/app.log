@@ -1,0 +1,202 @@
+[INFO|main|L168] 2026-08-18T12:51:38+0530.351: No update found in tmp folder, hence no update is performed
+[INFO|main|L188] 2026-08-18T12:51:38+0530.351: No components found, hence no components update is performed
+[INFO|main|L201] 2026-08-18T12:51:38+0530.352: No rollback.txt found, hence no rollback is performed
+[WARNING|warnings|L109] 2026-08-18T12:51:57+0530.729: C:\Program Files\Casablanca\embeddable-python\Lib\site-packages\moviepy\video\io\sliders.py:61: SyntaxWarning: "is" with a literal. Did you mean "=="?
+  if event.key is 'enter':
+
+[INFO|font_manager|L1578] 2026-08-18T12:52:03+0530.297: generated new fontManager
+[INFO|main|L220] 2026-08-18T12:52:13+0530.294: App started
+[INFO|main|L220] 2026-08-18T12:52:13+0530.295: Date: 2026-08-18 12:52:13
+[INFO|main|L220] 2026-08-18T12:52:13+0530.419: Creating settings file
+[INFO|main|L220] 2026-08-18T12:52:14+0530.441: Starting Login process
+[INFO|main|L220] 2026-08-18T12:52:14+0530.441: No login tokens found
+[INFO|main|L220] 2026-08-18T12:52:16+0530.637: Found config.ini but no enterprise key. Defaulting to login window instead
+[INFO|main|L220] 2026-08-18T12:52:25+0530.243: User aborted Casablanca on Login
+[INFO|main|L220] 2026-08-18T12:52:25+0530.368: Login process finished
+[ERROR|main|L220] 2026-08-18T12:52:25+0530.375: Try to push information in logout status 1 : <cyfunction API.start_session at 0x000001D8ED157780> (<class 'application.api.API'>,) {}
+[INFO|main|L220] 2026-08-18T12:52:25+0530.383: Starting Initialization
+[INFO|main|L220] 2026-08-18T12:52:28+0530.415: Starting GPU optimization
+[INFO|__init__|L1489] 2026-08-18T12:52:28+0530.416: Testing GPU 0
+[INFO|__init__|L1489] 2026-08-18T12:52:43+0530.397: Processing time of GPU 0: 438 ms 
+[INFO|__init__|L1489] 2026-08-18T12:52:43+0530.397: Testing GPU 1
+[INFO|__init__|L1489] 2026-08-18T12:52:43+0530.410: Processing time of GPU 1: 10000 ms 
+[INFO|main|L220] 2026-08-18T12:52:43+0530.421: Selected GPU 0
+[INFO|main|L220] 2026-08-18T12:52:49+0530.410: Selecting High Performance Mode
+[INFO|main|L220] 2026-08-18T12:52:49+0530.411: Initialization finished
+[INFO|main|L220] 2026-08-18T12:52:49+0530.412: Starting UI
+[MIXPANEL|mixpanel_integration|L66] 2026-08-18T12:52:50+0530.915: Started Casablanca
+[INFO|main|L220] 2026-08-18T12:52:50+0530.916: App version 3.3.0
+[INFO|main|L220] 2026-08-18T12:52:50+0530.916: Session_id: NA_13798
+[ERROR|threading|L982] 2026-08-18T12:52:50+0530.934: Try to push information in logout status 1 : <cyfunction API.send_event.<locals>.send at 0x000001D8F046F1D0> () {}
+[INFO|main|L220] 2026-08-18T12:52:50+0530.960: Set window size to 1010x594
+[INFO|os_factory|L22] 2026-08-18T12:52:54+0530.098: Attempting to load model: models/lsmsuperlight_v2.4.5.1_DML_0.0.1_16.onnx.encrypted
+[INFO|main|L220] 2026-08-18T12:54:51+0530.857: Starting inference thread
+[INFO|_code_cache|L101] 2026-08-18T12:54:52+0530.057: Imported existing <module 'comtypes.gen' from 'C:\\Program Files\\Casablanca\\embeddable-python\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+[INFO|_code_cache|L75] 2026-08-18T12:54:52+0530.058: Using writeable comtypes cache directory: 'C:\Program Files\Casablanca\embeddable-python\Lib\site-packages\comtypes\gen'
+[INFO|_generate|L234] 2026-08-18T12:54:52+0530.186: Could not import comtypes.gen._78530B68_61F9_11D2_8CAD_00A024580902_0_1_0: Typelib different than module
+[INFO|_generate|L236] 2026-08-18T12:54:52+0530.186: # Generating comtypes.gen._78530B68_61F9_11D2_8CAD_00A024580902_0_1_0
+[INFO|_generate|L234] 2026-08-18T12:54:52+0530.615: Could not import comtypes.gen._56A868B0_0AD4_11CE_B03A_0020AF0BA770_0_1_0: Typelib different than module
+[INFO|_generate|L236] 2026-08-18T12:54:52+0530.615: # Generating comtypes.gen._56A868B0_0AD4_11CE_B03A_0020AF0BA770_0_1_0
+[INFO|cameras|L82] 2026-08-18T12:54:53+0530.314: Detected 1 cameras
+[INFO|cameras|L82] 2026-08-18T12:54:53+0530.319: Detected 1 cameras
+[INFO|cameras|L119] 2026-08-18T12:54:53+0530.319: Opening real camera USB Video Device using virtual camera driver
+[INFO|cameras|L135] 2026-08-18T12:54:53+0530.488: Opened real camera 0, frame rate 30.0, width 1280, height 720
+[INFO|main|L220] 2026-08-18T12:54:57+0530.533: User language reported
+[ERROR|main|L220] 2026-08-18T12:54:57+0530.887: Try to push information in logout status 1 : <cyfunction API.manage_session at 0x000001D8ED157850> (<class 'application.api.API'>, 'NA_13798', 'maintain_session') {}
+[INFO|main|L220] 2026-08-18T12:54:58+0530.435: Received image from camera
+[INFO|main|L220] 2026-08-18T12:54:58+0530.492: Restarting camera 'USB Video Device' due to low frame rate (0 frames since last check)
+[INFO|__init__|L1489] 2026-08-18T12:54:58+0530.659: Mean deviation from original: 1.97
+[INFO|cameras|L82] 2026-08-18T12:54:58+0530.794: Detected 1 cameras
+[INFO|cameras|L82] 2026-08-18T12:54:58+0530.803: Detected 1 cameras
+[INFO|cameras|L119] 2026-08-18T12:54:58+0530.804: Opening real camera USB Video Device using virtual camera driver
+[ERROR|main|L220] 2026-08-18T12:54:59+0530.002: OSError occurred when initializing camera: exception: access violation reading 0x0000000000000000
+[INFO|main|L220] 2026-08-18T12:54:59+0530.007: Activating Fail Safe for camera 'USB Video Device'.
+[INFO|main|L220] 2026-08-18T12:55:11+0530.940: Using opencv to read from camera 0
+[INFO|main|L220] 2026-08-18T12:55:14+0530.308: Opened video capture `USB Video Device` with id `0`
+[INFO|main|L220] 2026-08-18T12:55:14+0530.403: No frame available to run head finding
+[INFO|cameras|L258] 2026-08-18T12:55:14+0530.460: Virtual camera performance: 0.0 FPS
+[INFO|main|L220] 2026-08-18T12:55:16+0530.363: Offering calibration due to changed setup
+[INFO|main|L220] 2026-08-18T12:55:53+0530.569: Time passed since last logging: 39.2 seconds
+[INFO|main|L220] 2026-08-18T12:55:53+0530.569: Frames processed: 272
+[INFO|main|L220] 2026-08-18T12:55:53+0530.569: Real camera performance: 14.5 FPS
+[INFO|main|L220] 2026-08-18T12:55:53+0530.569: Frames captured by camera: 567
+[INFO|main|L220] 2026-08-18T12:55:53+0530.570: Overall performance: 6.9 FPS
+[INFO|main|L220] 2026-08-18T12:55:53+0530.570: Overall performance (suspension adjusted): 6.9 FPS
+[INFO|main|L220] 2026-08-18T12:55:53+0530.570: Inference performance: 7.3 FPS
+[INFO|main|L220] 2026-08-18T12:55:53+0530.570: Time spent in suspension: 0.00 seconds
+[INFO|main|L220] 2026-08-18T12:55:53+0530.570: Time spent in throttling: 0.00 seconds
+[INFO|main|L220] 2026-08-18T12:55:53+0530.570: Time spent waiting for new camera frame: 0.00 seconds
+[INFO|main|L220] 2026-08-18T12:56:02+0530.895: Closing Camera: 'USB Video Device' because the app was suspended for '15.549058198928833' seconds
+[INFO|main|L220] 2026-08-18T12:56:02+0530.895: Stopped all timers except suspension_timer and single shot timers
+[INFO|cameras|L82] 2026-08-18T12:56:06+0530.023: Detected 1 cameras
+[INFO|main|L220] 2026-08-18T12:56:06+0530.023: Using opencv to read from camera 0
+[INFO|main|L220] 2026-08-18T12:56:08+0530.407: Opened video capture `USB Video Device` with id `0`
+[INFO|main|L220] 2026-08-18T12:56:08+0530.407: Restarted Camera: 'USB Video Device' after suspension
+[INFO|main|L220] 2026-08-18T12:56:08+0530.408: Started all timers except single shot timers
+[INFO|cameras|L258] 2026-08-18T12:56:14+0530.515: Virtual camera performance: 6.2 FPS
+[MIXPANEL|mixpanel_integration|L66] 2026-08-18T12:56:25+0530.154: Opened more settings dropdown menu
+[ERROR|threading|L982] 2026-08-18T12:56:25+0530.157: Try to push information in logout status 1 : <cyfunction API.send_event.<locals>.send at 0x000001D8F67A3850> () {}
+[MIXPANEL|mixpanel_integration|L66] 2026-08-18T12:56:33+0530.704: Closed more settings dropdown menu
+[MIXPANEL|mixpanel_integration|L66] 2026-08-18T12:56:33+0530.708: Clicked 'Switch to manual head and gaze calibration' button
+[ERROR|threading|L982] 2026-08-18T12:56:33+0530.709: Try to push information in logout status 1 : <cyfunction API.send_event.<locals>.send at 0x000001D8F45B35E0> () {}
+[ERROR|threading|L982] 2026-08-18T12:56:33+0530.718: Try to push information in logout status 1 : <cyfunction API.send_event.<locals>.send at 0x000001D8F66F6C20> () {}
+[MIXPANEL|mixpanel_integration|L66] 2026-08-18T12:56:36+0530.195: Adjusted gaze
+[ERROR|threading|L982] 2026-08-18T12:56:36+0530.197: Try to push information in logout status 1 : <cyfunction API.send_event.<locals>.send at 0x000001D8F67A3AC0> () {}
+[MIXPANEL|mixpanel_integration|L66] 2026-08-18T12:56:44+0530.299: Adjusted gaze
+[ERROR|threading|L982] 2026-08-18T12:56:44+0530.306: Try to push information in logout status 1 : <cyfunction API.send_event.<locals>.send at 0x000001D8F67A2740> () {}
+[MIXPANEL|mixpanel_integration|L66] 2026-08-18T12:57:05+0530.977: Closed tray app education menu
+[ERROR|threading|L982] 2026-08-18T12:57:06+0530.000: Try to push information in logout status 1 : <cyfunction API.send_event.<locals>.send at 0x000001D8F45B35E0> () {}
+[INFO|main|L220] 2026-08-18T12:57:06+0530.887: Closing Camera: 'USB Video Device' because the app was suspended for '0.0' seconds
+[INFO|main|L220] 2026-08-18T12:57:06+0530.888: Stopped all timers except suspension_timer and single shot timers
+[ERROR|threading|L982] 2026-08-18T12:57:49+0530.417: Try to push information in logout status 1 : <cyfunction API.manage_session at 0x000001D8ED157850> (<class 'application.api.API'>, 'NA_13798', 'maintain_session') {}
+[ERROR|threading|L982] 2026-08-18T13:17:32+0530.811: Try to push information in logout status 1 : <cyfunction API.manage_session at 0x000001D8ED157850> (<class 'application.api.API'>, 'NA_13798', 'maintain_session') {}
+[MIXPANEL|mixpanel_integration|L66] 2026-08-18T13:17:33+0530.285: App FPS (suspension adjusted)
+[ERROR|threading|L982] 2026-08-18T13:17:33+0530.334: Try to push information in logout status 1 : <cyfunction API.send_event.<locals>.send at 0x000001D8F65B4930> () {}
+[ERROR|threading|L982] 2026-08-18T13:22:33+0530.054: Try to push information in logout status 1 : <cyfunction API.manage_session at 0x000001D8ED157850> (<class 'application.api.API'>, 'NA_13798', 'maintain_session') {}
+[ERROR|threading|L982] 2026-08-18T13:27:33+0530.281: Try to push information in logout status 1 : <cyfunction API.manage_session at 0x000001D8ED157850> (<class 'application.api.API'>, 'NA_13798', 'maintain_session') {}
+[INFO|cameras|L82] 2026-08-18T13:30:55+0530.315: Detected 1 cameras
+[INFO|main|L220] 2026-08-18T13:30:55+0530.316: Using opencv to read from camera 0
+[INFO|main|L220] 2026-08-18T13:30:57+0530.584: Opened video capture `USB Video Device` with id `0`
+[INFO|main|L220] 2026-08-18T13:30:57+0530.585: Restarted Camera: 'USB Video Device' after suspension
+[INFO|main|L220] 2026-08-18T13:30:57+0530.586: Started all timers except single shot timers
+[INFO|cameras|L258] 2026-08-18T13:30:58+0530.018: Virtual camera performance: 0.2 FPS
+[INFO|main|L220] 2026-08-18T13:31:03+0530.070: Closing Camera: 'USB Video Device' because the app was suspended for '0.0' seconds
+[INFO|main|L220] 2026-08-18T13:31:03+0530.071: Stopped all timers except suspension_timer and single shot timers
+[INFO|cameras|L82] 2026-08-18T13:31:10+0530.607: Detected 1 cameras
+[INFO|main|L220] 2026-08-18T13:31:10+0530.608: Using opencv to read from camera 0
+[INFO|main|L220] 2026-08-18T13:31:12+0530.903: Opened video capture `USB Video Device` with id `0`
+[INFO|main|L220] 2026-08-18T13:31:12+0530.903: Restarted Camera: 'USB Video Device' after suspension
+[INFO|main|L220] 2026-08-18T13:31:12+0530.903: Started all timers except single shot timers
+[INFO|main|L220] 2026-08-18T13:31:18+0530.675: Stopped all timers 
+[MIXPANEL|mixpanel_integration|L66] 2026-08-18T13:31:18+0530.677: App FPS (suspension adjusted)
+[MIXPANEL|mixpanel_integration|L66] 2026-08-18T13:31:18+0530.688: Number of face losses on close
+[ERROR|threading|L982] 2026-08-18T13:31:18+0530.690: Try to push information in logout status 1 : <cyfunction API.send_event.<locals>.send at 0x000001D8F67A32A0> () {}
+[ERROR|threading|L982] 2026-08-18T13:31:18+0530.701: Try to push information in logout status 1 : <cyfunction API.send_event.<locals>.send at 0x000001D8F67A3100> () {}
+[MIXPANEL|mixpanel_integration|L66] 2026-08-18T13:31:18+0530.710: Reporting user setup
+[ERROR|main|L220] 2026-08-18T13:31:18+0530.731: Try to push information in logout status 1 : <cyfunction API.manage_session at 0x000001D8ED157850> (<class 'application.api.API'>, 'NA_13798', 'end_session') {}
+[ERROR|threading|L982] 2026-08-18T13:31:18+0530.738: Try to push information in logout status 1 : <cyfunction API.send_event.<locals>.send at 0x000001D8F6724110> () {}
+[MIXPANEL|mixpanel_integration|L66] 2026-08-18T13:31:18+0530.748: Stopped Casablanca
+[ERROR|threading|L982] 2026-08-18T13:31:18+0530.764: Try to push information in logout status 1 : <cyfunction API.send_event.<locals>.send at 0x000001D8F6724110> () {}
+[INFO|main|L168] 2026-09-12T12:51:24+0530.674: No update found in tmp folder, hence no update is performed
+[INFO|main|L188] 2026-09-12T12:51:24+0530.674: No components found, hence no components update is performed
+[INFO|main|L201] 2026-09-12T12:51:24+0530.675: No rollback.txt found, hence no rollback is performed
+[INFO|main|L135] 2026-09-12T12:51:50+0530.702: Another instance of Casablanca is already open. Closing previous instance.
+[INFO|main|L168] 2026-09-12T12:51:53+0530.703: No update found in tmp folder, hence no update is performed
+[INFO|main|L188] 2026-09-12T12:51:53+0530.704: No components found, hence no components update is performed
+[INFO|main|L201] 2026-09-12T12:51:53+0530.705: No rollback.txt found, hence no rollback is performed
+[INFO|main|L220] 2026-09-12T12:52:44+0530.001: App started
+[INFO|main|L220] 2026-09-12T12:52:44+0530.002: Date: 2026-09-12 12:52:44
+[INFO|main|L220] 2026-09-12T12:52:44+0530.510: Starting Login process
+[INFO|main|L220] 2026-09-12T12:52:44+0530.514: No login tokens found
+[INFO|main|L220] 2026-09-12T12:52:47+0530.549: Found config.ini but no enterprise key. Defaulting to login window instead
+[INFO|main|L220] 2026-09-12T12:52:54+0530.453: User aborted Casablanca on Login
+[INFO|main|L220] 2026-09-12T12:52:54+0530.510: Login process finished
+[ERROR|main|L220] 2026-09-12T12:52:54+0530.511: Try to push information in logout status 1 : <cyfunction API.start_session at 0x00000203453FCE10> (<class 'application.api.API'>,) {}
+[INFO|main|L220] 2026-09-12T12:52:54+0530.513: Starting Initialization
+[INFO|main|L220] 2026-09-12T12:52:57+0530.114: Running performance check on GPU 0
+[INFO|main|L220] 2026-09-12T12:52:58+0530.639: Performance of GPU 0: 375 ms
+[INFO|main|L220] 2026-09-12T12:52:58+0530.673: GPU performance of GPU 0 is low. Attempting to find a better GPU
+[INFO|main|L220] 2026-09-12T12:52:58+0530.790: Starting GPU optimization
+[INFO|__init__|L1489] 2026-09-12T12:52:58+0530.791: Skipping testing GPU 0 as its performance is already known
+[INFO|__init__|L1489] 2026-09-12T12:52:58+0530.791: Processing time of GPU 0: 375 ms 
+[INFO|__init__|L1489] 2026-09-12T12:52:58+0530.791: Testing GPU 1
+[INFO|__init__|L1489] 2026-09-12T12:52:58+0530.805: Processing time of GPU 1: 10000 ms 
+[INFO|main|L220] 2026-09-12T12:53:06+0530.708: Selected GPU 0
+[INFO|main|L220] 2026-09-12T12:53:06+0530.708: Initialization finished
+[INFO|main|L220] 2026-09-12T12:53:06+0530.708: Starting UI
+[MIXPANEL|mixpanel_integration|L66] 2026-09-12T12:53:08+0530.164: Started Casablanca
+[INFO|main|L220] 2026-09-12T12:53:08+0530.165: App version 3.3.0
+[INFO|main|L220] 2026-09-12T12:53:08+0530.165: Session_id: NA_55469
+[ERROR|threading|L982] 2026-09-12T12:53:08+0530.176: Try to push information in logout status 1 : <cyfunction API.send_event.<locals>.send at 0x00000203488153C0> () {}
+[INFO|main|L220] 2026-09-12T12:53:08+0530.207: Set window size to 1010x594
+[INFO|os_factory|L22] 2026-09-12T12:53:09+0530.890: Attempting to load model: models/lsmsuperlight_v2.4.5.1_DML_0.0.1_16.onnx.encrypted
+[INFO|main|L220] 2026-09-12T12:53:11+0530.145: Starting inference thread
+[INFO|_code_cache|L101] 2026-09-12T12:53:11+0530.445: Imported existing <module 'comtypes.gen' from 'C:\\Program Files\\Casablanca\\embeddable-python\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+[INFO|_code_cache|L75] 2026-09-12T12:53:11+0530.445: Using writeable comtypes cache directory: 'C:\Program Files\Casablanca\embeddable-python\Lib\site-packages\comtypes\gen'
+[INFO|_generate|L234] 2026-09-12T12:53:11+0530.586: Could not import comtypes.gen._56A868B0_0AD4_11CE_B03A_0020AF0BA770_0_1_0: Typelib different than module
+[INFO|_generate|L236] 2026-09-12T12:53:11+0530.587: # Generating comtypes.gen._56A868B0_0AD4_11CE_B03A_0020AF0BA770_0_1_0
+[INFO|cameras|L82] 2026-09-12T12:53:11+0530.935: Detected 1 cameras
+[INFO|cameras|L82] 2026-09-12T12:53:11+0530.939: Detected 1 cameras
+[INFO|cameras|L119] 2026-09-12T12:53:11+0530.940: Opening real camera USB Video Device using virtual camera driver
+[INFO|cameras|L135] 2026-09-12T12:53:12+0530.100: Opened real camera 0, frame rate 30.0, width 1280, height 720
+[MIXPANEL|mixpanel_integration|L66] 2026-09-12T12:53:12+0530.163: Opened autostart suggestion window
+[INFO|main|L220] 2026-09-12T12:53:12+0530.164: Option for autostart displayed
+[ERROR|threading|L982] 2026-09-12T12:53:12+0530.179: Try to push information in logout status 1 : <cyfunction API.send_event.<locals>.send at 0x0000020348817440> () {}
+[ERROR|main|L220] 2026-09-12T12:53:12+0530.180: Try to push information in logout status 1 : <cyfunction API.manage_session at 0x00000203453FCFB0> (<class 'application.api.API'>, 'NA_55469', 'maintain_session') {}
+[INFO|main|L220] 2026-09-12T12:53:12+0530.572: Received image from camera
+[INFO|__init__|L1489] 2026-09-12T12:53:12+0530.735: Mean deviation from original: 0.12
+[MIXPANEL|mixpanel_integration|L66] 2026-09-12T12:53:27+0530.989: Closed autostart suggestion window
+[ERROR|threading|L982] 2026-09-12T12:53:27+0530.998: Try to push information in logout status 1 : <cyfunction API.send_event.<locals>.send at 0x000002034CA5A400> () {}
+[INFO|mixpanel_integration|L135] 2026-09-12T12:53:27+0530.998: Offering calibration due to changed setup
+[MIXPANEL|mixpanel_integration|L66] 2026-09-12T12:53:37+0530.229: Opened Choose Camera dropdown
+[ERROR|threading|L982] 2026-09-12T12:53:37+0530.298: Try to push information in logout status 1 : <cyfunction API.send_event.<locals>.send at 0x000002034CA5A740> () {}
+[MIXPANEL|mixpanel_integration|L66] 2026-09-12T12:53:56+0530.755: Started recording
+[ERROR|threading|L982] 2026-09-12T12:53:56+0530.765: Try to push information in logout status 1 : <cyfunction API.send_event.<locals>.send at 0x000002034CA58EE0> () {}
+[MIXPANEL|mixpanel_integration|L66] 2026-09-12T12:53:58+0530.732: Proceed with Recording
+[ERROR|threading|L982] 2026-09-12T12:53:58+0530.734: Try to push information in logout status 1 : <cyfunction API.send_event.<locals>.send at 0x000002034CA58BA0> () {}
+[INFO|cameras|L258] 2026-09-12T12:54:08+0530.366: Virtual camera performance: 7.6 FPS
+[MIXPANEL|mixpanel_integration|L66] 2026-09-12T12:54:10+0530.230: Stopped recording
+[ERROR|threading|L982] 2026-09-12T12:54:10+0530.279: Try to push information in logout status 1 : <cyfunction API.send_event.<locals>.send at 0x000002034CA5A810> () {}
+[INFO|main|L220] 2026-09-12T12:54:12+0530.230: Time passed since last logging: 40.1 seconds
+[INFO|main|L220] 2026-09-12T12:54:12+0530.230: Frames processed: 311
+[INFO|main|L220] 2026-09-12T12:54:12+0530.230: Real camera performance: 15.1 FPS
+[INFO|main|L220] 2026-09-12T12:54:12+0530.230: Frames captured by camera: 606
+[INFO|main|L220] 2026-09-12T12:54:12+0530.230: Overall performance: 7.8 FPS
+[INFO|main|L220] 2026-09-12T12:54:12+0530.230: Overall performance (suspension adjusted): 7.8 FPS
+[INFO|main|L220] 2026-09-12T12:54:12+0530.230: Inference performance: 8.2 FPS
+[INFO|main|L220] 2026-09-12T12:54:12+0530.230: Time spent in suspension: 0.00 seconds
+[INFO|main|L220] 2026-09-12T12:54:12+0530.230: Time spent in throttling: 0.00 seconds
+[INFO|main|L220] 2026-09-12T12:54:12+0530.230: Time spent waiting for new camera frame: 0.00 seconds
+[MIXPANEL|mixpanel_integration|L66] 2026-09-12T12:54:29+0530.879: Opened more settings dropdown menu
+[ERROR|threading|L982] 2026-09-12T12:54:29+0530.880: Try to push information in logout status 1 : <cyfunction API.send_event.<locals>.send at 0x000002034B8B1CB0> () {}
+[MIXPANEL|mixpanel_integration|L66] 2026-09-12T12:54:42+0530.218: Closed more settings dropdown menu
+[ERROR|threading|L982] 2026-09-12T12:54:42+0530.255: Try to push information in logout status 1 : <cyfunction API.send_event.<locals>.send at 0x00000203484F2E90> () {}
+[ERROR|qt_dialog|L171] 2026-09-12T12:54:42+0530.279: Try to push information in logout status 1 : <cyfunction API.fetch_report at 0x00000203453FD700> (<class 'application.api.API'>, '7') {}
+[MIXPANEL|mixpanel_integration|L66] 2026-09-12T12:54:44+0530.389: Closed insights menu
+[ERROR|threading|L982] 2026-09-12T12:54:44+0530.396: Try to push information in logout status 1 : <cyfunction API.send_event.<locals>.send at 0x0000020348065F20> () {}
+[MIXPANEL|mixpanel_integration|L66] 2026-09-12T12:54:44+0530.403: Clicked 'View Insights' button
+[ERROR|threading|L982] 2026-09-12T12:54:44+0530.405: Try to push information in logout status 1 : <cyfunction API.send_event.<locals>.send at 0x0000020348067B90> () {}
+[MIXPANEL|mixpanel_integration|L66] 2026-09-12T12:54:48+0530.186: Closed tray app education menu
+[ERROR|threading|L982] 2026-09-12T12:54:48+0530.198: Try to push information in logout status 1 : <cyfunction API.send_event.<locals>.send at 0x00000203484F3100> () {}
+[INFO|main|L220] 2026-09-12T12:54:49+0530.052: Closing Camera: 'USB Video Device' because the app was suspended for '0.0' seconds
+[INFO|main|L220] 2026-09-12T12:54:49+0530.053: Stopped all timers except suspension_timer and single shot timers

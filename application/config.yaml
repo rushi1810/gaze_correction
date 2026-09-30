@@ -1,0 +1,33 @@
+main_algo:
+  inference:
+    model:
+      fp16:
+        lsm: models/lsmlight_v2.4.5.1_DML_0.0.1_16.onnx.encrypted
+        light: models/lsmsuperlight_v2.4.5.1_DML_0.0.1_16.onnx.encrypted
+      fp32:
+        lsm: models/lsmlight_v2.4.5.1_DML_0.0.1_16.onnx.encrypted
+        light: models/lsmsuperlight_v2.4.5.1_DML_0.0.1_16.onnx.encrypted
+    core_ml_model:
+        lsm: models/lsmlight_v2.4.5.1_coreml_0.0.1.mlmodelc
+        light: models/lsmsuperlight_v2.4.5.1_coreml_0.0.1.mlmodelc
+
+    model_input_size: 256
+  head_corrector:
+    win_left_right_rescale: 20
+    win_up_down_rescale: 20
+    mac_left_right_rescale: 20
+    mac_up_down_rescale: 20
+  gaze_corrector:
+    win_left_right_rescale: 25
+    win_up_down_rescale: 25
+    mac_left_right_rescale: 25
+    mac_up_down_rescale: 25
+  hand_occlusion:
+    mean_threshold: 0.9
+    max_frame_to_track_mean: 5
+
+roi:
+  tolerated_xy_roi_movement_before_move: 0.005
+  size_increment_factor: 1.5
+  face_detection_timeout_ms: 100
+  y_position_correction: -0.185

@@ -1,0 +1,23 @@
+
+Date: 2026-08-18 12:51:38
+Windows fatal exception: access violation
+
+Thread 0x00003600 (most recent call first):
+  <no Python frame>
+
+Thread 0x0000126c (most recent call first):
+  File "threading.py", line 327 in wait
+  File "queue.py", line 171 in get
+  File "logging\handlers.py", line 1528 in dequeue
+  File "logging\handlers.py", line 1579 in _monitor
+  File "threading.py", line 982 in run
+  File "threading.py", line 1045 in _bootstrap_inner
+  File "threading.py", line 1002 in _bootstrap
+
+Current thread 0x00004300 (most recent call first):
+  File "C:\Program Files\Casablanca\application\..\casablanca_camera\python\casablanca_camera\cameras.py", line 125 in __init__
+  File "C:\Program Files\Casablanca\application\main.py", line 220 in <module>
+
+Date: 2026-09-12 12:51:24
+
+Date: 2026-09-12 12:51:50
